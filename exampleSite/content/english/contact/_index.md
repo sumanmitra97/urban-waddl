@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 subtitle: ''
-description: This is meta description
+description: Contact our company
 
 ---
 ### Why you should contact us!
