@@ -23,9 +23,9 @@ feature:
   - name: Solar, Renewable Energy
     icon: fas fa-th
     content: Solar Photo Voltaic and Green Technology Solutions
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Power Supply Solutions
+    icon: fas fa-power-off
+    content: Lab and Industrial Power Supplies
   - name: Cloud Support
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
