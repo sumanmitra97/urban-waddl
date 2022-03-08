@@ -26,9 +26,9 @@ feature:
   - name: Power Supply Solutions
     icon: fas fa-power-off
     content: Lab and Industrial Power Supplies
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Equipment Procurement
+    icon: fas fa-rocket
+    content: Scientific, Industrial Electronics and Equipment
 service:
   enable: true
   service_item:
