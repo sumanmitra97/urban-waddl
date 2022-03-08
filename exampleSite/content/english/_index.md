@@ -20,9 +20,9 @@ feature:
   - name: Embedded Software
     icon: fas fa-edit
     content: Firmware, GUI, Protocol Development Services
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Solar, Renewable Energy
+    icon: fas fa-th
+    content: Solar Photo Voltaic and Green Technology Solutions
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
