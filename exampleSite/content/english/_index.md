@@ -29,6 +29,9 @@ feature:
   - name: Equipment Procurement
     icon: fas fa-rocket
     content: Scientific, Industrial Electronics and Equipment
+  - name: Apps for Windows Devices
+    icon: fas fa-windows
+    content: VS, VB.Net based Applications for Industrial Users
 service:
   enable: true
   service_item:
