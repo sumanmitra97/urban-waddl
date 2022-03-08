@@ -17,9 +17,9 @@ feature:
   - name: Embedded Hardware
     icon: fas fa-cogs
     content: PCB, Hardware Design Services
-  - name: 24h Service
-    icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Embedded Software
+    icon: fas fa-edit
+    content: Firmware, GUI, Protocol Development Services
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
