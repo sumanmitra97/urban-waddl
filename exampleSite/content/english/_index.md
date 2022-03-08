@@ -32,6 +32,9 @@ feature:
   - name: Apps for Windows Devices
     icon: fas fa-windows
     content: VS, VB.Net based Applications for Industrial Users
+  - name: Website Design
+    content: Website development in Node/Angular/Python
+    icon: fas fa-globe
 service:
   enable: true
   service_item:
