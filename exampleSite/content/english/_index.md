@@ -14,9 +14,9 @@ feature:
   - name: Design and Development
     icon: fas fa-th-list
     content: Electronics Devices & Instruments
-  - name: Object Oriented
-    icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Embedded Hardware
+    icon: fas fa-cogs
+    content: PCB, Hardware Design Services
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
